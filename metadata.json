@@ -1,0 +1,9 @@
+{
+  "name": "AI Genie Shop",
+  "description": "A luxury royal-blue themed shopping experience with a living 3D AI assistant, integrated Gemini search, maps, and voice features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
